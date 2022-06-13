@@ -4,3 +4,6 @@
 [submodule "Petty-Care-Front"]
 	path = Petty-Care-Front
 	url = https://github.com/Sebastien-jo/Petty-Care-Front
+[submodule "Petty-Care-Wordpress"]
+	path = Petty-Care-Wordpress
+	url = https://github.com/Sebastien-jo/Petty-Care-Wordpress
