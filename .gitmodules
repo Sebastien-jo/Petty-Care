@@ -1,3 +1,6 @@
 [submodule "Petty-Care-Back"]
 	path = Petty-Care-Back
 	url = https://github.com/Sebastien-jo/Petty-Care-Back
+[submodule "Petty-Care-Front"]
+	path = Petty-Care-Front
+	url = https://github.com/Sebastien-jo/Petty-Care-Front
